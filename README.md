@@ -83,7 +83,7 @@ ZyPark is a modern, cross-platform mobile application built with React Native an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/zypark.git
+   git clone https://github.com/ahmetxhero/zypark.git
    cd zypark
    ```
 
@@ -291,9 +291,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Documentation**: [Wiki](https://github.com/yourusername/zypark/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/zypark/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/zypark/discussions)
+- **Documentation**: [Wiki](https://github.com/ahmetxhero/zypark/wiki)
+- **Issues**: [GitHub Issues](https://github.com/ahmetxhero/zypark/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ahmetxhero/zypark/discussions)
 - **Email**: support@zypark.app
 
 ## 🗺️ Roadmap
