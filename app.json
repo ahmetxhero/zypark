@@ -4,6 +4,8 @@
     "slug": "zypark",
     "version": "1.0.0",
     "orientation": "portrait",
+    "description": "Smart Parking Made Simple - Find and reserve parking spots with ease",
+    "author": "AhmetXHero",
     "icon": "./assets/images/icon.png",
     "scheme": "zypark",
     "userInterfaceStyle": "automatic",

@@ -325,6 +325,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the ZyPark Team**
+**Made with ❤️ by AhmetXHero**
 
 *Find parking. Save time. Drive happy.* 🚗✨
